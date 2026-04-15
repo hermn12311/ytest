@@ -23,6 +23,6 @@ mi top 5 de juegos:
 
 | brawler | calificacion |
 | -------- | ------------ |
-| carl | 9 |
-| 8-bit | 5|
+| carl | 9   |
+| 8-bit | 5   |
 | shelly |10 |
